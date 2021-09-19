@@ -1,0 +1,7 @@
+C:\Users\alexi\source\repos\ElSoldado\ElSoldado\bin\Debug\ElSoldado.exe.config
+C:\Users\alexi\source\repos\ElSoldado\ElSoldado\bin\Debug\ElSoldado.exe
+C:\Users\alexi\source\repos\ElSoldado\ElSoldado\bin\Debug\ElSoldado.pdb
+C:\Users\alexi\source\repos\ElSoldado\ElSoldado\obj\Debug\ElSoldado.csproj.AssemblyReference.cache
+C:\Users\alexi\source\repos\ElSoldado\ElSoldado\obj\Debug\ElSoldado.csproj.CoreCompileInputs.cache
+C:\Users\alexi\source\repos\ElSoldado\ElSoldado\obj\Debug\ElSoldado.exe
+C:\Users\alexi\source\repos\ElSoldado\ElSoldado\obj\Debug\ElSoldado.pdb
